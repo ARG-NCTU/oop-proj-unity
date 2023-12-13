@@ -13,11 +13,11 @@ $ git clone git@github.com:ARG-NCTU/oop-proj-unity.git
 ```
 2. Open with Unity Hub
 
-3. Network environment setup
+3. Network environment setup  
 The network environment setup in this project shows below, if your setup different to this tutorial, remember do step 4 to change server ip setup.
 ![Network](/readme_img/network.png)
 
-4. Choose the example scene at Assets/Scenes/SampleScene.unity
+4. Choose the example scene at Assets/Scenes/SampleScene.unity  
 You can see a cube in scene with third person view.
 
 5. Modify server ip in project (if your setup different from step 3)
